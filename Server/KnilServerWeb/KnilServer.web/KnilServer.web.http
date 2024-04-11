@@ -1,0 +1,6 @@
+@KnilServer.web_HostAddress = http://localhost:5203
+
+GET {{KnilServer.web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
