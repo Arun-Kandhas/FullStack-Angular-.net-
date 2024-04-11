@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "29tKFym44LNAkLwug5myGoLtC7BM2Qy2gW8oTStlaDTJ7nCXDCH6nT6qexseZnKk3wNk9SoLTfl3uh4eh927+A==",
+  "dgSpecHash": "7ZMuBsOr5dPe96qTErPQqWNCvscyLqrq45RwGbw1oEd00Ebk7jyajTFbhUdmctw9wpxTX9Yc8HGas/ch6Anczg==",
   "success": true,
-  "projectFilePath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
+  "projectFilePath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arun.kandasamy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\arun.kandasamy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

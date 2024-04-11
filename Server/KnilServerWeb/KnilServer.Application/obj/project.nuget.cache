@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ht/P/gH19lVkXovuYZhfCiDarQ7BTITJ5xG7dZxCW15xKR/fWf42p4Wnr6DFdKPMLg8ntkiQRzc1tX3ridLhVQ==",
+  "dgSpecHash": "k75qBvCxCgu7ppSSkNYWN87GcJFzL7LbVNCU3iRv+nz1606ZYG5GVe4zbEjznuVsm+WoeZhy8lqs6pObyNbzeQ==",
   "success": true,
-  "projectFilePath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
+  "projectFilePath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arun.kandasamy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\arun.kandasamy\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

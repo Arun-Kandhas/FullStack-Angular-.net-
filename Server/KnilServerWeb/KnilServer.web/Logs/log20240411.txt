@@ -3442,3 +3442,17 @@ FROM [Contacts] AS [c]
 2024-04-11 17:56:44.609 +05:30 [INF] Executed action KnilServer.web.Controllers.ContactsController.GetContacts (KnilServer.web) in 7.0826ms
 2024-04-11 17:56:44.612 +05:30 [INF] Executed endpoint 'KnilServer.web.Controllers.ContactsController.GetContacts (KnilServer.web)'
 2024-04-11 17:56:44.615 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7107/api/Contacts - 200 null application/json; charset=utf-8 27.9922ms
+2024-04-11 18:12:13.865 +05:30 [INF] User profile is available. Using 'C:\Users\arun.kandasamy\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-11 18:12:14.594 +05:30 [INF] Now listening on: https://localhost:7107
+2024-04-11 18:12:14.595 +05:30 [INF] Now listening on: http://localhost:5203
+2024-04-11 18:12:14.672 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-11 18:12:14.674 +05:30 [INF] Hosting environment: Development
+2024-04-11 18:12:14.675 +05:30 [INF] Content root path: E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.web
+2024-04-11 18:12:15.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7107/swagger/index.html - null null
+2024-04-11 18:12:16.242 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7107/swagger/index.html - 200 null text/html;charset=utf-8 507.2624ms
+2024-04-11 18:12:16.445 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7107/_vs/browserLink - null null
+2024-04-11 18:12:16.445 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7107/_framework/aspnetcore-browser-refresh.js - null null
+2024-04-11 18:12:16.534 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7107/_framework/aspnetcore-browser-refresh.js - 200 13764 application/javascript; charset=utf-8 87.1001ms
+2024-04-11 18:12:16.773 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7107/_vs/browserLink - 200 null text/javascript; charset=UTF-8 328.1022ms
+2024-04-11 18:12:16.863 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7107/swagger/v1/swagger.json - null null
+2024-04-11 18:12:17.231 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7107/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 368.9561ms

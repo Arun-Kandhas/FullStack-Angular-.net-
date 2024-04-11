@@ -1,0 +1,250 @@
+<div class="container mt-3">
+    <div class="row justify-content-center mx-auto">
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="text-center mb-2">Update Contacts</h5>
+            <form [formGroup]="editForm" class="row p-1">
+                <input hidden
+                type="text"
+                class="form-control"
+                placeholder="Enter your First name"
+                formControlName="id"
+                required
+              />
+              <div class="col-md-6">
+                <label for="firstname" class="form-label">First Name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  placeholder="Enter your First name"
+                  formControlName="firstName"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['firstName'].invalid &&
+                    (editForm.controls['firstName'].touched ||
+                      editForm.controls['firstName'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['firstName'].errors?.['required']"
+                    >FirstName field is required</span
+                  >
+                </div>
+              </div>
+  
+              <div class="col-md-6">
+                <label for="lastName" class="form-label">Last Name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  placeholder="Enter your Last name"
+                  formControlName="lastName"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['lastName'].invalid &&
+                    (editForm.controls['lastName'].touched ||
+                      editForm.controls['lastName'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['lastName'].errors?.['required']"
+                    >LastName field is required</span
+                  >
+                </div>
+              </div>
+  
+              <div class="col-md-6">
+                <label for="email" class="form-label">Email address</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  placeholder="Enter your email"
+                  formControlName="email"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['email'].invalid &&
+                    (editForm.controls['email'].touched ||
+                      editForm.controls['email'].dirty)
+                  "
+                >
+                  <span *ngIf="editForm.controls['email'].errors?.['required']"
+                    >Email field is required</span
+                  >
+                  <span *ngIf="editForm.controls['email'].errors?.['email']"
+                    >Invalid Email Address</span
+                  >
+                </div>
+              </div>
+  
+              <div class="col-md-6">
+                <label for="text" class="form-label">Phone Number</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="phoneNumber"
+                  placeholder="Enter your Phone Number"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['phoneNumber'].invalid &&
+                    (editForm.controls['phoneNumber'].touched ||
+                      editForm.controls['phoneNumber'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['phoneNumber'].errors?.['required']"
+                    >Phone Number field is required</span
+                  >
+                </div>
+              </div>
+  
+              <div class="col-12">
+                <label for="text" class="form-label">Address</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="address"
+                  placeholder="Enter your address"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['address'].invalid &&
+                    (editForm.controls['address'].touched ||
+                      editForm.controls['address'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['address'].errors?.['required']"
+                    >Address field is required</span
+                  >
+                </div>
+              </div>
+              <div class="col-12">
+                <label for="text" class="form-label">City</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="city"
+                  placeholder="Enter your City"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['city'].invalid &&
+                    (editForm.controls['city'].touched ||
+                      editForm.controls['city'].dirty)
+                  "
+                >
+                  <span *ngIf="editForm.controls['city'].errors?.['required']"
+                    >City field is required</span
+                  >
+                </div>
+              </div>
+              <div class="col-md-6">
+                <label for="text" class="form-label">State</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="state"
+                  placeholder="Enter your City"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['state'].invalid &&
+                    (editForm.controls['state'].touched ||
+                      editForm.controls['state'].dirty)
+                  "
+                >
+                  <span *ngIf="editForm.controls['state'].errors?.['required']"
+                    >State field is required</span
+                  >
+                </div>
+              </div>
+              <div class="col-md-6">
+                <label for="text" class="form-label">Country</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="country"
+                  placeholder="Enter your City"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['country'].invalid &&
+                    (editForm.controls['country'].touched ||
+                      editForm.controls['country'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['country'].errors?.['required']"
+                    >Country field is required</span
+                  >
+                </div>
+              </div>
+              <div class="col-md-12">
+                <label for="text" class="form-label">ZIP</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  formControlName="postalCode"
+                  placeholder="Enter your City"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                    editForm.controls['postalCode'].invalid &&
+                    (editForm.controls['postalCode'].touched ||
+                      editForm.controls['postalCode'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="editForm.controls['postalCode'].errors?.['required']"
+                    >PostalCode field is required</span
+                  >
+                </div>
+              </div>
+  
+              <div class="d-flex flex-column flex-md-row">
+                <button
+                  type="submit"
+                  [disabled]="editForm.invalid"
+                  class="btn btn-success m-2"
+                  (click)="UpdateContacts()"
+                >
+                  Update
+                </button>
+                <button
+                  type="submit"
+                  class="btn btn-danger m-2"
+                  routerLink="/home"
+                >
+                  Cancel
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

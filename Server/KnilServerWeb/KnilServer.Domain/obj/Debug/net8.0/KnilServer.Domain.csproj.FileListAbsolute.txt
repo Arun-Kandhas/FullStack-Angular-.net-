@@ -9,3 +9,15 @@ E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\refint\KnilServer.Domain.dll
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.pdb
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\ref\KnilServer.Domain.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\bin\Debug\net8.0\KnilServer.Domain.deps.json
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\bin\Debug\net8.0\KnilServer.Domain.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\bin\Debug\net8.0\KnilServer.Domain.pdb
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.AssemblyInfoInputs.cache
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.AssemblyInfo.cs
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.csproj.CoreCompileInputs.cache
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.sourcelink.json
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\refint\KnilServer.Domain.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\KnilServer.Domain.pdb
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\obj\Debug\net8.0\ref\KnilServer.Domain.dll

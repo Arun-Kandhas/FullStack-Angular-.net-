@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KnilServer.Domain
-build_property.ProjectDir = E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Domain\
+build_property.ProjectDir = E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

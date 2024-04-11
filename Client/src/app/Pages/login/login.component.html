@@ -1,0 +1,72 @@
+<div class="container mt-5">
+    <div class="row justify-content-center mx-auto">
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="text-center mb-2">Login</h5>
+            <form [formGroup]="loginForm">              
+              <div class="mb-2">
+                <label for="email" class="form-label">Email address</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  placeholder="Enter your email"
+                  formControlName="email"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                  loginForm.controls['email'].invalid &&
+                    (loginForm.controls['email'].touched ||
+                    loginForm.controls['email'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="loginForm.controls['email'].errors?.['required']"
+                    >Email field is required</span
+                  >
+                  <span *ngIf="loginForm.controls['email'].errors?.['email']"
+                    >Invalid Email Address</span
+                  >
+                </div>
+              </div>
+              <div class="mb-2">
+                <label for="password" class="form-label">Password</label>
+                <input
+                  type="password"
+                  class="form-control"
+                  formControlName="password"
+                  placeholder="Enter your password"
+                  required
+                />
+                <div
+                  class="text-danger my-auto"
+                  *ngIf="
+                  loginForm.controls['password'].invalid &&
+                    (loginForm.controls['password'].touched ||
+                    loginForm.controls['password'].dirty)
+                  "
+                >
+                  <span
+                    *ngIf="loginForm.controls['password'].errors?.['required']"
+                    >Password field is required</span
+                  >
+                </div>
+              </div>
+              <div class="mb-2 d-flex flex-column flex-md-row">
+                <button type="button" [disabled]="loginForm.invalid" class="btn btn-primary m-2" (click)="Login()">
+                  Login
+                </button>
+                <button type="button" class="btn btn-danger m-2">Cancel</button>
+              </div>
+              <div class="mb-2 text-center">
+                <span>New User?</span><a routerLink="/Register">Signup Here</a>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

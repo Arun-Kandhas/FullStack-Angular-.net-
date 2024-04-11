@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\",
+  "WorkspaceRootPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\server\\server\\knilserverweb\\knilserver.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\add client\\fullstack-angular-.net-\\server\\knilserverweb\\knilserver.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|solutionrelative:knilserver.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\server\\server\\knilserverweb\\knilserver.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\add client\\fullstack-angular-.net-\\server\\knilserverweb\\knilserver.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|solutionrelative:knilserver.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\server\\server\\knilserverweb\\knilserver.web\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\add client\\fullstack-angular-.net-\\server\\knilserverweb\\knilserver.web\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|solutionrelative:knilserver.web\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\server\\server\\knilserverweb\\knilserver.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|e:\\arun new\\requirementprojects\\projects1\\add client\\fullstack-angular-.net-\\server\\knilserverweb\\knilserver.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D402DBC8-ACF6-410D-9DBE-934DDB801B9B}|KnilServer.web\\KnilServer.web.csproj|solutionrelative:knilserver.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C88E034-8D72-4DD9-9050-4633A1B68BD6}|KnilServer.Application\\KnilServer.Application.csproj|e:\\arun new\\requirementprojects\\projects1\\server\\server\\knilserverweb\\knilserver.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C88E034-8D72-4DD9-9050-4633A1B68BD6}|KnilServer.Application\\KnilServer.Application.csproj|e:\\arun new\\requirementprojects\\projects1\\add client\\fullstack-angular-.net-\\server\\knilserverweb\\knilserver.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C88E034-8D72-4DD9-9050-4633A1B68BD6}|KnilServer.Application\\KnilServer.Application.csproj|solutionrelative:knilserver.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\Services\\AuthService.cs",
+              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "KnilServer.Application\\Services\\AuthService.cs",
-              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "KnilServer.Application\\Services\\AuthService.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAADgv1MAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "KnilServer.web\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "KnilServer.web\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA3wCAAAAAQAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T18:43:57.753Z",
               "EditorCaption": ""
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ContactsController.cs",
-              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\ContactsController.cs",
+              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "KnilServer.web\\Controllers\\ContactsController.cs",
-              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\ContactsController.cs",
+              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "KnilServer.web\\Controllers\\ContactsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\appsettings.json",
+              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\appsettings.json",
               "RelativeDocumentMoniker": "KnilServer.web\\appsettings.json",
-              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\appsettings.json",
+              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\appsettings.json",
               "RelativeToolTip": "KnilServer.web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Program.cs",
+              "DocumentMoniker": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Program.cs",
               "RelativeDocumentMoniker": "KnilServer.web\\Program.cs",
-              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\Program.cs",
+              "ToolTip": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\Program.cs",
               "RelativeToolTip": "KnilServer.web\\Program.cs",
               "ViewState": "AQIAAFoAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

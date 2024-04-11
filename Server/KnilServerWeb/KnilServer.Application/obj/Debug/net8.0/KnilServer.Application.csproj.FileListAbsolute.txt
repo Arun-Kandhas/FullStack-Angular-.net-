@@ -13,3 +13,19 @@ E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Domain.pdb
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.csproj.AssemblyReference.cache
 E:\Arun New\RequirementProjects\Projects1\Server\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServ.467B310E.Up2Date
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Application.deps.json
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Application.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Application.pdb
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Domain.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\bin\Debug\net8.0\KnilServer.Domain.pdb
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.csproj.AssemblyReference.cache
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.AssemblyInfoInputs.cache
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.AssemblyInfo.cs
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.csproj.CoreCompileInputs.cache
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.sourcelink.json
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServ.467B310E.Up2Date
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\refint\KnilServer.Application.dll
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\KnilServer.Application.pdb
+E:\Arun New\RequirementProjects\Projects1\add client\FullStack-Angular-.net-\Server\KnilServerWeb\KnilServer.Application\obj\Debug\net8.0\ref\KnilServer.Application.dll

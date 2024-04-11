@@ -1,0 +1,117 @@
+<div class="container mt-3">
+  <div class="row justify-content-center mx-auto">
+    <div class="col-lg-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="text-center mb-2">Registration</h5>
+          <form [formGroup]="registerForm">
+            <div class="mb-2">
+              <label for="firstname" class="form-label">First Name</label>
+              <input
+                type="text"
+                class="form-control"
+                placeholder="Enter your First name"
+                formControlName="firstName"
+                required
+              />
+              <div
+                class="text-danger my-auto"
+                *ngIf="
+                registerForm.controls['firstName'].invalid &&
+                  (registerForm.controls['firstName'].touched ||
+                  registerForm.controls['firstName'].dirty)
+                "
+              >
+                <span
+                  *ngIf="registerForm.controls['firstName'].errors?.['required']"
+                  >FirstName field is required</span
+                >
+              </div>
+            </div>
+            <div class="mb-2">
+              <label for="lastName" class="form-label">Last Name</label>
+              <input
+                type="text"
+                class="form-control"
+                placeholder="Enter your Last name"
+                formControlName="lastName"
+                required
+              />
+              <div
+                class="text-danger my-auto"
+                *ngIf="
+                registerForm.controls['lastName'].invalid &&
+                  (registerForm.controls['lastName'].touched ||
+                  registerForm.controls['lastName'].dirty)
+                "
+              >
+                <span
+                  *ngIf="registerForm.controls['lastName'].errors?.['required']"
+                  >LastName field is required</span
+                >
+              </div>
+            </div>
+            <div class="mb-2">
+              <label for="email" class="form-label">Email address</label>
+              <input
+                type="email"
+                class="form-control"
+                placeholder="Enter your email"
+                formControlName="email"
+                required
+              />
+              <div
+                class="text-danger my-auto"
+                *ngIf="
+                registerForm.controls['email'].invalid &&
+                  (registerForm.controls['email'].touched ||
+                  registerForm.controls['email'].dirty)
+                "
+              >
+                <span
+                  *ngIf="registerForm.controls['email'].errors?.['required']"
+                  >Email field is required</span
+                >
+                <span *ngIf="registerForm.controls['email'].errors?.['email']"
+                  >Invalid Email Address</span
+                >
+              </div>
+            </div>
+            <div class="mb-2">
+              <label for="password" class="form-label">Password</label>
+              <input
+                type="password"
+                class="form-control"
+                formControlName="password"
+                placeholder="Enter your password"
+                required
+              />
+              <div
+                class="text-danger my-auto"
+                *ngIf="
+                registerForm.controls['password'].invalid &&
+                  (registerForm.controls['password'].touched ||
+                  registerForm.controls['password'].dirty)
+                "
+              >
+                <span
+                  *ngIf="registerForm.controls['password'].errors?.['required']"
+                  >Password field is required</span
+                >
+              </div>
+            </div>
+            <div class="mb-2 d-flex flex-column flex-md-row">
+              <button type="submit" [disabled]="registerForm.invalid" class="btn btn-primary m-2" (click)="Register()">
+                Register
+              </button>
+              <button type="submit" class="btn btn-danger m-2">Cancel</button>
+            </div>
+            <div class="mb-2 text-center">
+              <span>Already Have Account?</span><a routerLink="/login">Login Here</a>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

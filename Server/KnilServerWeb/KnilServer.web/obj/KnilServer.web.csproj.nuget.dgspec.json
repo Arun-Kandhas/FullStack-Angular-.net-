@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj": {}
+    "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj": {}
   },
   "projects": {
-    "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
+    "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
+        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
         "projectName": "KnilServer.Application",
-        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
+        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj",
         "packagesPath": "C:\\Users\\arun.kandasamy\\.nuget\\packages\\",
-        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\obj\\",
+        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
-                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj"
+              "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
+                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
+    "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj",
+        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj",
         "projectName": "KnilServer.Domain",
-        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj",
+        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj",
         "packagesPath": "C:\\Users\\arun.kandasamy\\.nuget\\packages\\",
-        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\obj\\",
+        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj": {
+    "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
         "projectName": "KnilServer.Infrastructure",
-        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
+        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\arun.kandasamy\\.nuget\\packages\\",
-        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\obj\\",
+        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,11 +190,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
-                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj"
+              "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
+                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj"
               },
-              "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
-                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj"
+              "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj": {
+                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Domain\\KnilServer.Domain.csproj"
               }
             }
           }
@@ -263,14 +263,14 @@
         }
       }
     },
-    "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj": {
+    "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj",
+        "projectUniqueName": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj",
         "projectName": "KnilServer.web",
-        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj",
+        "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\KnilServer.web.csproj",
         "packagesPath": "C:\\Users\\arun.kandasamy\\.nuget\\packages\\",
-        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.web\\obj\\",
+        "outputPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -291,11 +291,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
-                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj"
+              "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj": {
+                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Application\\KnilServer.Application.csproj"
               },
-              "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj": {
-                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\Server\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj"
+              "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj": {
+                "projectPath": "E:\\Arun New\\RequirementProjects\\Projects1\\add client\\FullStack-Angular-.net-\\Server\\KnilServerWeb\\KnilServer.Infrastructure\\KnilServer.Infrastructure.csproj"
               }
             }
           }
